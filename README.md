@@ -6,10 +6,18 @@ This repository contains the WorkSight Codex plugin marketplace.
 
 In Codex, open **Add marketplace** and use:
 
-- **Source:** the GitHub repository URL `https://github.com/StefanChristiansson/worksight-codex-plugin.git`
+- **Source:** `StefanChristiansson/worksight-codex-plugin` or `https://github.com/StefanChristiansson/worksight-codex-plugin.git`
 - **Git ref:** `main`
 - **Sparse paths:** `plugins/codex`
 
 After adding the marketplace, install the **WorkSight** plugin from the marketplace list.
 
-Users authenticate through the Codex MCP OAuth flow.
+## MCP Endpoint
+
+The plugin points to the production WorkSight MCP server:
+
+```text
+https://worksight-api.nemely.com/mcp
+```
+
+Users authenticate through the Codex MCP OAuth flow. No WorkSight tokens, client secrets, or user credentials are stored in this repository.

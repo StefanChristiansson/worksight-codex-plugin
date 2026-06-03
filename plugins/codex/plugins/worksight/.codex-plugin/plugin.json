@@ -1,0 +1,36 @@
+{
+  "name": "worksight",
+  "version": "0.1.1+codex.20260603220757",
+  "description": "Bring WorkSight project delivery into Codex.",
+  "author": {
+    "name": "Nemely"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "WorkSight",
+    "shortDescription": "Plan, follow up, and move WorkSight project deliveries forward from Codex.",
+    "longDescription": "WorkSight helps delivery teams keep projects moving. From Codex, you can find active projects, understand what needs attention, review plans and time reporting, and follow up on project-agent tasks without leaving the flow of work. It gives consultants, project leads, and delivery managers a faster way to stay aligned on customers, commitments, capacity, and next actions across WorkSight.",
+    "developerName": "Nemely",
+    "category": "Productivity",
+    "capabilities": [
+      "Project Delivery",
+      "Planning",
+      "Time Reporting",
+      "Project Follow-up",
+      "Delivery Insights",
+      "Team Coordination"
+    ],
+    "defaultPrompt": [
+      "Show active projects that need attention.",
+      "Summarize delivery status for my projects.",
+      "Review this week's time reporting by project."
+    ],
+    "brandColor": "#F59E0B",
+    "composerIcon": "./assets/worksight-symbol-icon.png",
+    "logo": "./assets/worksight-symbol-icon.png",
+    "screenshots": [
+      "./assets/worksight-product-preview.png"
+    ]
+  },
+  "mcpServers": "./.mcp.json"
+}

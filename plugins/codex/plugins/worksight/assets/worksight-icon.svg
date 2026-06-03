@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="WorkSight">
+  <rect width="96" height="96" rx="22" fill="#102A43"/>
+  <path fill="#2F6FED" d="M20 27h56v10H20z"/>
+  <path fill="#5EEAD4" d="M20 43h18v26H20z"/>
+  <path fill="#F8FAFC" d="M45 43h31v8H45zM45 61h22v8H45z"/>
+</svg>

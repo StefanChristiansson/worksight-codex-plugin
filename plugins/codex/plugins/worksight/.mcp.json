@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "worksight": {
+      "url": "https://worksight-api.nemely.com/mcp",
+      "http_headers": {
+        "mcp-client-name": "codex-worksight-plugin"
+      }
+    }
+  }
+}

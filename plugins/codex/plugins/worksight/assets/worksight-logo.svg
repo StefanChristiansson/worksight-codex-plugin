@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-label="WorkSight">
+  <rect width="420" height="120" rx="18" fill="#F8FAFC"/>
+  <rect x="28" y="28" width="64" height="64" rx="14" fill="#102A43"/>
+  <path fill="#2F6FED" d="M40 43h40v8H40z"/>
+  <path fill="#5EEAD4" d="M40 57h14v22H40z"/>
+  <path fill="#F8FAFC" d="M60 57h20v7H60zM60 72h15v7H60z"/>
+  <text x="116" y="74" fill="#102A43" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">WorkSight</text>
+</svg>

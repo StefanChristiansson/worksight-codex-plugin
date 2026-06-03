@@ -6,7 +6,7 @@ This repository contains the WorkSight Codex plugin marketplace.
 
 In Codex, open **Add marketplace** and use:
 
-- **Source:** the GitHub repository URL, for example `https://github.com/<org>/worksight-codex-plugin.git`
+- **Source:** the GitHub repository URL `https://github.com/StefanChristiansson/worksight-codex-plugin.git`
 - **Git ref:** `main`
 - **Sparse paths:** `plugins/codex`
 

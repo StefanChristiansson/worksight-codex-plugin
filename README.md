@@ -12,12 +12,4 @@ In Codex, open **Add marketplace** and use:
 
 After adding the marketplace, install the **WorkSight** plugin from the marketplace list.
 
-## MCP Endpoint
-
-The plugin points to the production WorkSight MCP server:
-
-```text
-https://worksight-api.nemely.com/mcp
-```
-
-Users authenticate through the Codex MCP OAuth flow. No WorkSight tokens, client secrets, or user credentials are stored in this repository.
+Users authenticate through the Codex MCP OAuth flow.
